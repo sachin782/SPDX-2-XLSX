@@ -1,0 +1,17 @@
+# Build outputs
+build/
+dist/
+*.spec.bak
+
+# Installer prerequisite cache
+installer/redist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Logs
+converter.log

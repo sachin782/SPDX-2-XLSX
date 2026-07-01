@@ -1,0 +1,2 @@
+openpyxl>=3.1.0
+tkinterdnd2>=0.3.0  # optional — enables drag-and-drop; remove if unavailable
