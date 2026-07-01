@@ -122,6 +122,3 @@ Sections missing from the input file are silently skipped.
 - **Drag-and-drop not working** — install `tkinterdnd2` or use the browse button instead.
 - **File won't open automatically** — the file is still saved to Downloads; open it manually.
 - Check `~/converter.log` for detailed error information.
-
-## Setup
-Setup for this application is in Setup folder.
